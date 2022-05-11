@@ -1,0 +1,5 @@
+project: jacob-clemente/libsndfile
+target: sndfile-info
+
+cmds:
+  - cmd: /sndfile-info @@
